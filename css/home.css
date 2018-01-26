@@ -534,7 +534,7 @@ hr{
     margin: 0 auto;
     border-bottom: 7px solid #000000;
     max-width: 1140px;
-	min-width: 580px;  /* when using padded grid on ipad in portrait mode, width should be viewport-width - padding = (768 - 20) = 748. actually, it should be even smaller to allow for padding of grid containing element */
+	min-width: 590px;  /* when using padded grid on ipad in portrait mode, width should be viewport-width - padding = (768 - 20) = 748. actually, it should be even smaller to allow for padding of grid containing element */
 	top: -20px;
 	clear:both;
 	left:  00;
