@@ -709,11 +709,12 @@ hr{
 
  	header{
  	padding-top: 80px;
+	padding-left: 15px;
  	font-size: 1em;
-    line-height: .9em;
-    margin: 0 auto;
-    border-bottom: 7px solid #000000;
-    max-width: 340px;
+   	line-height: .9em;
+   	margin: 0 auto;
+    	border-bottom: 7px solid #000000;
+    	max-width: 340px;
 	min-width: 200px; /* when using padded grid on ipad in portrait mode, width should be viewport-width - padding = (768 - 20) = 748. actually, it should be even smaller to allow for padding of grid containing element */
 	top: -20px;
 	clear:both;
